@@ -9,4 +9,4 @@ MEM_THRESHOLD=75
 echo "Serveur : $HOSTNAME"
 echo "Seuil disque : $DISK_THRESHOLD%"
 echo "Seuil processeur : $CPU_THRESHOLD%"
-echo "Seuil mémoire : $MEM_THRESHO
+echo "Seuil mémoire : $MEM_THRESHOLD%"
