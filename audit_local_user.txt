@@ -1,0 +1,79 @@
+﻿
+
+AccountExpires         : 
+Description            : Compte d’utilisateur d’administration
+Enabled                : False
+FullName               : 
+PasswordChangeableDate : 
+PasswordExpires        : 
+UserMayChangePassword  : True
+PasswordRequired       : True
+PasswordLastSet        : 
+LastLogon              : 
+Name                   : Administrateur
+SID                    : S-1-5-21-959959467-4218346967-1609342864-500
+PrincipalSource        : Local
+ObjectClass            : Utilisateur
+
+AccountExpires         : 
+Description            : Compte utilisateur géré par le système.
+Enabled                : False
+FullName               : 
+PasswordChangeableDate : 
+PasswordExpires        : 
+UserMayChangePassword  : True
+PasswordRequired       : False
+PasswordLastSet        : 
+LastLogon              : 
+Name                   : DefaultAccount
+SID                    : S-1-5-21-959959467-4218346967-1609342864-503
+PrincipalSource        : Local
+ObjectClass            : Utilisateur
+
+AccountExpires         : 
+Description            : Compte d’utilisateur invité
+Enabled                : False
+FullName               : 
+PasswordChangeableDate : 
+PasswordExpires        : 
+UserMayChangePassword  : False
+PasswordRequired       : False
+PasswordLastSet        : 
+LastLogon              : 
+Name                   : Invité
+SID                    : S-1-5-21-959959467-4218346967-1609342864-501
+PrincipalSource        : Local
+ObjectClass            : Utilisateur
+
+AccountExpires         : 
+Description            : Compte d’utilisateur géré et utilisé par le système pour les scénarios Windows Defender Application Guard.
+Enabled                : False
+FullName               : 
+PasswordChangeableDate : 29/05/2026 04:15:54
+PasswordExpires        : 10/07/2026 04:15:54
+UserMayChangePassword  : True
+PasswordRequired       : True
+PasswordLastSet        : 29/05/2026 04:15:54
+LastLogon              : 
+Name                   : WDAGUtilityAccount
+SID                    : S-1-5-21-959959467-4218346967-1609342864-504
+PrincipalSource        : Local
+ObjectClass            : Utilisateur
+
+AccountExpires         : 
+Description            : 
+Enabled                : True
+FullName               : 
+PasswordChangeableDate : 07/09/2026 09:32:38
+PasswordExpires        : 
+UserMayChangePassword  : True
+PasswordRequired       : False
+PasswordLastSet        : 07/09/2026 09:32:38
+LastLogon              : 10/11/2026 17:04:52
+Name                   : Winfried
+SID                    : S-1-5-21-959959467-4218346967-1609342864-1001
+PrincipalSource        : Local
+ObjectClass            : Utilisateur
+
+
+
